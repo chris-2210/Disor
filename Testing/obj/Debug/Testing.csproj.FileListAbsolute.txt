@@ -1,0 +1,7 @@
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Testing\bin\Debug\Testing.dll
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Testing\bin\Debug\Testing.pdb
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Testing\bin\Debug\Logica.dll
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Testing\bin\Debug\Logica.pdb
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Testing\obj\Debug\Testing.dll
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Testing\obj\Debug\Testing.pdb

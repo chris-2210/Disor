@@ -1,0 +1,5 @@
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Logica\bin\Debug\Logica.dll
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Logica\bin\Debug\Logica.pdb
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Logica\obj\Debug\Logica.dll
+c:\Users\cristhian daniel\documents\visual studio 2012\Projects\Disor\Logica\obj\Debug\Logica.pdb
+C:\Users\Cristhian Daniel\documents\visual studio 2012\Projects\Disor\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
